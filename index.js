@@ -81,6 +81,7 @@ class Carro {
         }
         this.tiempoTotal = tiempoTotal;
     }
+    
 
     hallarVelocidadAproximada() {
         let tiempo = 0;
